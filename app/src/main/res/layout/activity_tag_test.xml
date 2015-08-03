@@ -8,6 +8,7 @@
     <TextView android:text="&quot;Tag test !!!!&quot;" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="60sp"
-        android:textColor="#ff0000" />
+        android:textColor="#ff0000"
+        android:background="#00ffff" />
 
 </RelativeLayout>
